@@ -1,7 +1,7 @@
 package test00;
 import java.util.Scanner;
 
-public class test01 
+public class leapYear 
 {
 	public static void main(String[] args) 
 	{

@@ -1,7 +1,7 @@
 package test00;
 
 import java.util.Scanner;
-public class test03 {
+public class alarm01 {
 
 		public static void main(String[] args) {
 	    
