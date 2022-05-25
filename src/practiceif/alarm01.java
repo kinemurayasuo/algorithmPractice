@@ -1,4 +1,4 @@
-package test00;
+package practiceif;
 
 import java.util.Scanner;
 public class alarm01 {
